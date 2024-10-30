@@ -1,6 +1,6 @@
 <img align="right" height="150" src="https://user-images.githubusercontent.com/107127279/233161463-b4e5627d-1258-4050-80d2-d83a2abd50e7.png">
 
-# Rice University / Coursera - Business Statistics and Analysis Capstone
+# Business Statistics and Analysis Capstone
 This is a scrubbed version of my Business Statistics and Analysis Specialization capstone project, from Rice University / Coursera.
 </br> 
 
