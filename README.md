@@ -14,16 +14,16 @@ All work was completed using Excel and Excel's Data Analysis tool. Findings are 
 
 ## File Descriptions
 
-| Name                                       | Description                                                                    |
-| :----------------------------------------- | :----------------------------------------------------------------------------- |
-| assignment1_data                           | Folder containing data and working files for Assignment #1                     |
-| assignment2_data                           | Folder containing data and working files for Assignment #2                     |
-| assignment3_data                           | Folder containing data and working files for Assignment #3                     |
-| assignment4_data                           | Folder containing data and working files for Assignment #4                     |
-| Assignment1.pptx                           | PowerPoint presentation recapping findings and submission for Assignment #1    |
-| Assignment2.pptx                           | PowerPoint presentation recapping findings and submission for Assignment #2    |
-| Assignment3.pptx                           | PowerPoint presentation recapping findings and submission for Assignment #3    |
-| Assignment4.pptx                           | PowerPoint presentation recapping findings and submission for Assignment #4    |
+| Name                                       | Description                                                                                  |
+| :----------------------------------------- | :------------------------------------------------------------------------------------------- |
+| assignment1_data                           | Folder containing data and working files for Assignment #1                                   |
+| assignment2_data                           | Folder containing data and working files for Assignment #2                                   |
+| assignment3_data                           | Folder containing data and working files for Assignment #3                                   |
+| assignment4_data                           | Folder containing data and working files for Assignment #4                                   |
+| Assignment1.pdf                            | PowerPoint presentation recapping findings and submission for Assignment #1, saved as PDF    |
+| Assignment2.pdf                            | PowerPoint presentation recapping findings and submission for Assignment #2, saved as PDF    |
+| Assignment3.pdf                            | PowerPoint presentation recapping findings and submission for Assignment #3, saved as PDF    |
+| Assignment4.pdf                            | PowerPoint presentation recapping findings and submission for Assignment #4, saved as PDF    |
 
 
 </br>
